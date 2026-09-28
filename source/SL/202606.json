@@ -1,0 +1,656 @@
+{
+  "period": "202606",
+  "display": "June 2026",
+  "title": "Our Christian Life and Ministry Meeting Schedule",
+  "theme": "#2a365e",
+  "publish": true,
+  "firstMonday": "2026-06-01",
+  "language": "SL",
+  "weeks": [
+    {
+      "order": 1,
+      "id": "202606.1",
+      "week": "JUNE 1-7",
+      "bibleReading": "JEREMIAH 1-3",
+      "songs": [
+        "84",
+        "76",
+        "18"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.1.0",
+            "time": 1,
+            "reference": "Opening Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.1.10"
+            ]
+          },
+          {
+            "id": "202606.1.1",
+            "time": 10,
+            "title": "1. “Do Not Be Afraid . . . for ‘I Am With You’”",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Spiritual Gems",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.3",
+            "time": 4,
+            "reference": "Jer 3:14-23 (th 12)",
+            "title": "3. Bible Reading",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.1.4",
+            "time": 3,
+            "title": "4. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 2:5",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.1.5",
+            "time": 4,
+            "title": "5. Following Up",
+            "class": "part-title-ministry",
+            "reference": "lmd 8:3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.1.6",
+            "time": 5,
+            "title": "6. Making Disciples",
+            "class": "part-title-ministry",
+            "reference": "lmd 12:5",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.1.7",
+            "time": 6,
+            "title": "7. Be Bold Like Jeremiah",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.8",
+            "time": 9,
+            "title": "8. “Make a Defense . . . With a Mild Temper and Deep Respect”",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.9",
+            "time": 30,
+            "title": "9. Congregation Bible Study",
+            "class": "part-title-living",
+            "reference": "bt 21:8-13, Box 2",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.1.10",
+            "time": 3,
+            "reference": "Concluding Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "id": "202606.2",
+      "week": "JUNE 8-14",
+      "bibleReading": "JEREMIAH 4-6",
+      "songs": [
+        "56",
+        "60",
+        "68"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.2.0",
+            "time": 1,
+            "reference": "Opening Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.2.11"
+            ]
+          },
+          {
+            "id": "202606.2.1",
+            "time": 10,
+            "title": "1. Learn From Judah’s Spiritual Sickness",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.2.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Spiritual Gems",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.2.3",
+            "time": 4,
+            "reference": "Jer 5:1-11 (th 5)",
+            "title": "3. Bible Reading",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.2.4",
+            "time": 2,
+            "title": "4. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 2:3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.2.5",
+            "time": 2,
+            "title": "5. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 1:3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.2.6",
+            "time": 4,
+            "title": "6. Following Up",
+            "class": "part-title-ministry",
+            "reference": "lmd 3:3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.2.7",
+            "time": 3,
+            "title": "7. Explaining Your Beliefs",
+            "class": "part-title-ministry",
+            "reference": "th 7",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.2.8",
+            "time": 8,
+            "title": "8. Protect Your Heart From Misinformation",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.2.9",
+            "time": 7,
+            "title": "9. Local Needs",
+            "class": "part-title-living",
+            "roles": [
+              "elder"
+            ],
+            "writtable": true
+          },
+          {
+            "id": "202606.2.10",
+            "time": 30,
+            "title": "10. Congregation Bible Study",
+            "class": "part-title-living",
+            "reference": "bt 21:14-22",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.2.11",
+            "time": 3,
+            "reference": "Concluding Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "id": "202606.3",
+      "week": "JUNE 15-21",
+      "bibleReading": "JEREMIAH 7-8",
+      "songs": [
+        "152",
+        "91",
+        "71"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.3.0",
+            "time": 1,
+            "reference": "Opening Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.3.10"
+            ]
+          },
+          {
+            "id": "202606.3.1",
+            "time": 10,
+            "title": "1. They Treated Jehovah’s Temple With Contempt",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Spiritual Gems",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.3",
+            "time": 4,
+            "reference": "Jer 8:4-13 (th 2)",
+            "title": "3. Bible Reading",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.3.4",
+            "time": 3,
+            "title": "4. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 5:5",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.3.5",
+            "time": 4,
+            "title": "5. Following Up",
+            "class": "part-title-ministry",
+            "reference": "lmd 9:3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.3.6",
+            "time": 5,
+            "title": "6. Making Disciples",
+            "class": "part-title-ministry",
+            "reference": "th 19",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.3.7",
+            "time": 5,
+            "title": "7. How We Can Show Appreciation for Our Kingdom Halls",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.8",
+            "time": 10,
+            "title": "8. How Your Donations Are Used​—Maintaining Our Kingdom Halls",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.9",
+            "time": 30,
+            "title": "9. Congregation Bible Study",
+            "class": "part-title-living",
+            "reference": "bt 22:1-6",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.3.10",
+            "time": 3,
+            "reference": "Concluding Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "id": "202606.4",
+      "week": "JUNE 22-28",
+      "bibleReading": "JEREMIAH 9-10",
+      "songs": [
+        "5",
+        "48",
+        "58"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.4.0",
+            "time": 1,
+            "reference": "Opening Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.4.9"
+            ]
+          },
+          {
+            "id": "202606.4.1",
+            "time": 10,
+            "title": "1. What Will You Boast About?",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.4.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Spiritual Gems",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.4.3",
+            "time": 4,
+            "reference": "Jer 9:13-24 (th 12)",
+            "title": "3. Bible Reading",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.4.4",
+            "time": 4,
+            "title": "4. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 3:5",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.4.5",
+            "time": 4,
+            "title": "5. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 3:4",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.4.6",
+            "time": 4,
+            "title": "6. Following Up",
+            "class": "part-title-ministry",
+            "reference": "lmd 7:3",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.4.7",
+            "time": 15,
+            "title": "7. Avoid Deception, and Follow the Kingdom (Jer 10:23)",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.4.8",
+            "time": 30,
+            "title": "8. Congregation Bible Study",
+            "class": "part-title-living",
+            "reference": "bt 22:7-14, Box 1, Box 2",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.4.9",
+            "time": 3,
+            "reference": "Concluding Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 5,
+      "id": "202606.5",
+      "week": "JUNE 29–JULY 5",
+      "bibleReading": "JEREMIAH 11-12",
+      "songs": [
+        "106",
+        "109",
+        "69"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.5.0",
+            "time": 1,
+            "reference": "Opening Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.5.9"
+            ]
+          },
+          {
+            "id": "202606.5.1",
+            "time": 10,
+            "title": "1. How to “Run a Race Against Horses”",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.5.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Spiritual Gems",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.5.3",
+            "time": 4,
+            "reference": "Jer 12:1-11 (th 2)",
+            "title": "3. Bible Reading",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.5.4",
+            "time": 3,
+            "title": "4. Starting a Conversation",
+            "class": "part-title-ministry",
+            "reference": "lmd 1:4",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.5.5",
+            "time": 4,
+            "title": "5. Following Up",
+            "class": "part-title-ministry",
+            "reference": "lmd 3:3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.5.6",
+            "time": 5,
+            "title": "6. Talk",
+            "class": "part-title-ministry",
+            "reference": "th 14",
+            "roles": [
+              "talk"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.5.7",
+            "time": 15,
+            "title": "7. Local Needs",
+            "class": "part-title-living",
+            "roles": [
+              "elder"
+            ],
+            "writtable": true
+          },
+          {
+            "id": "202606.5.8",
+            "time": 30,
+            "title": "8. Congregation Bible Study",
+            "class": "part-title-living",
+            "reference": "bt 22:15-21",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.5.9",
+            "time": 3,
+            "reference": "Concluding Comments",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

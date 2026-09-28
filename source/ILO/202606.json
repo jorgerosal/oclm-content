@@ -1,0 +1,696 @@
+{
+  "period": "202606",
+  "display": "Hunio 2026",
+  "title": "Eskediul ti Gimong iti Tengnga ti Lawas",
+  "theme": "#2a365e",
+  "publish": true,
+  "firstMonday": "2026-06-01",
+  "language": "ILO",
+  "weeks": [
+    {
+      "order": 1,
+      "id": "202606.1",
+      "week": "HUNIO 1-7",
+      "bibleReading": "JEREMIAS 1-3",
+      "songs": [
+        "84",
+        "76",
+        "18"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.1.0",
+            "time": 1,
+            "reference": "Panglukat a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.1.10"
+            ]
+          },
+          {
+            "id": "202606.1.1",
+            "time": 10,
+            "title": "1. Dika Agbuteng, ta Addaak Kenka",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Panagkali iti Naespirituan a Gameng",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.3",
+            "time": 4,
+            "reference": "Jer 3:14-25 (th adalen 12)",
+            "title": "3. Panagbasa iti Biblia",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.1.4",
+            "time": 3,
+            "title": "4. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 2 punto 5",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.1.5",
+            "time": 4,
+            "title": "5. Pannakisarita Manen",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 8 punto 3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.1.6",
+            "time": 5,
+            "title": "6. Panagaramid iti Adalan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 12 punto 5",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.1.7",
+            "time": 6,
+            "title": "7. Agbalinka a Natured kas ken Jeremias",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.8",
+            "time": 9,
+            "title": "8. Idepensam Dagiti Patpatiem nga Addaan iti Kinaalumamay ken Nauneg a Panagraem",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.1.9",
+            "time": 30,
+            "title": "9. Panagadal ti Kongregasion iti Biblia",
+            "class": "part-title-living",
+            "reference": "lfb leksion 90-91",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.1.9.r",
+            "class": "accessory",
+            "alt": "Reader:",
+            "roles": [
+              "rdr"
+            ]
+          },
+          {
+            "id": "202606.1.10",
+            "time": 3,
+            "reference": "Pangserra a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "id": "202606.2",
+      "week": "HUNIO 8-14",
+      "bibleReading": "JEREMIAS 4-6",
+      "songs": [
+        "56",
+        "60",
+        "68"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.2.0",
+            "time": 1,
+            "reference": "Panglukat a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.2.11"
+            ]
+          },
+          {
+            "id": "202606.2.1",
+            "time": 10,
+            "title": "1. Saanmo a Tultuladen Dagiti Rebelioso a Taga-Juda",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.2.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Panagkali iti Naespirituan a Gameng",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.2.3",
+            "time": 4,
+            "reference": "Jer 5:1-11 (th adalen 5)",
+            "title": "3. Panagbasa iti Biblia",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.2.4",
+            "time": 2,
+            "title": "4. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 2 punto 3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.2.5",
+            "time": 2,
+            "title": "5. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 1 punto 3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.2.6",
+            "time": 4,
+            "title": "6. Pannakisarita Manen",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 3 punto 3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.2.7",
+            "time": 3,
+            "title": "7. Panangilawlawag iti Patpatien",
+            "class": "part-title-ministry",
+            "reference": "th adalen 7",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.2.8",
+            "time": 8,
+            "title": "8. Dika Agpaallilaw Kadagiti Di Umiso nga Impormasion",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.2.9",
+            "time": 7,
+            "title": "9. Lokal a Kasapulan",
+            "class": "part-title-living",
+            "roles": [
+              "elder"
+            ],
+            "writtable": true
+          },
+          {
+            "id": "202606.2.10",
+            "time": 30,
+            "title": "10. Panagadal ti Kongregasion iti Biblia",
+            "class": "part-title-living",
+            "reference": "lfb leksion 92-93",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.2.10.r",
+            "class": "accessory",
+            "alt": "Reader:",
+            "roles": [
+              "rdr"
+            ]
+          },
+          {
+            "id": "202606.2.11",
+            "time": 3,
+            "reference": "Pangserra a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "id": "202606.3",
+      "week": "HUNIO 15-21",
+      "bibleReading": "JEREMIAS 7-8",
+      "songs": [
+        "152",
+        "91",
+        "71"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.3.0",
+            "time": 1,
+            "reference": "Panglukat a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.3.10"
+            ]
+          },
+          {
+            "id": "202606.3.1",
+            "time": 10,
+            "title": "1. Saanda a Rinespeto ti Templo ni Jehova",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Panagkali iti Naespirituan a Gameng",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.3",
+            "time": 4,
+            "reference": "Jer 8:4-13 (th adalen 2)",
+            "title": "3. Panagbasa iti Biblia",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.3.4",
+            "time": 3,
+            "title": "4. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 5 punto 5",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.3.5",
+            "time": 4,
+            "title": "5. Pannakisarita Manen",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 9 punto 3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.3.6",
+            "time": 5,
+            "title": "6. Panagaramid iti Adalan",
+            "class": "part-title-ministry",
+            "reference": "th adalen 19",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.3.7",
+            "time": 5,
+            "title": "7. No Kasanotayo a Maipakita nga Ipatpategtayo ti Kingdom Hall-tayo",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.8",
+            "time": 10,
+            "title": "8. Ti Pakaus-usaran Dagiti Donasionyo—Panangmantener Kadagiti Kingdom Hall-tayo",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.3.9",
+            "time": 30,
+            "title": "9. Panagadal ti Kongregasion iti Biblia",
+            "class": "part-title-living",
+            "reference": "lfb intro ti seksion 14 ken leksion 94-95",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.3.9.r",
+            "class": "accessory",
+            "alt": "Reader:",
+            "roles": [
+              "rdr"
+            ]
+          },
+          {
+            "id": "202606.3.10",
+            "time": 3,
+            "reference": "Pangserra a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "id": "202606.4",
+      "week": "HUNIO 22-28",
+      "bibleReading": "JEREMIAS 9-10",
+      "songs": [
+        "5",
+        "48",
+        "58"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.4.0",
+            "time": 1,
+            "reference": "Panglukat a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.4.9"
+            ]
+          },
+          {
+            "id": "202606.4.1",
+            "time": 10,
+            "title": "1. Ania Koma ti Ipagpannakkelmo?",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.4.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Panagkali iti Naespirituan a Gameng",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.4.3",
+            "time": 4,
+            "reference": "Jer 9:13-24 (th adalen 12)",
+            "title": "3. Panagbasa iti Biblia",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.4.4",
+            "time": 4,
+            "title": "4. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 3 punto 5",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.4.5",
+            "time": 4,
+            "title": "5. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 3 punto 4",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.4.6",
+            "time": 4,
+            "title": "6. Pannakisarita Manen",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 7 punto 3",
+            "roles": [
+              "demo"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.4.7",
+            "time": 15,
+            "title": "7. Dikay Agpaallilaw, ken Agtalekkayo iti Pagarian (Jer 10:23)",
+            "class": "part-title-living",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.4.8",
+            "time": 30,
+            "title": "8. Panagadal ti Kongregasion iti Biblia",
+            "class": "part-title-living",
+            "reference": "lfb leksion 96-97",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.4.8.r",
+            "class": "accessory",
+            "alt": "Reader:",
+            "roles": [
+              "rdr"
+            ]
+          },
+          {
+            "id": "202606.4.9",
+            "time": 3,
+            "reference": "Pangserra a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "order": 5,
+      "id": "202606.5",
+      "week": "HUNIO 29–HULIO 5",
+      "bibleReading": "JEREMIAS 11-12",
+      "songs": [
+        "106",
+        "109",
+        "69"
+      ],
+      "parts": {
+        "gems": [
+          {
+            "id": "202606.5.0",
+            "time": 1,
+            "reference": "Panglukat a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ],
+            "autofills": [
+              "202606.5.9"
+            ]
+          },
+          {
+            "id": "202606.5.1",
+            "time": 10,
+            "title": "1. No Kasano ti “Makilumba Kadagiti Kabalio”",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.5.2",
+            "time": 10,
+            "reference": "",
+            "title": "2. Panagkali iti Naespirituan a Gameng",
+            "class": "part-title-gems",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          },
+          {
+            "id": "202606.5.3",
+            "time": 4,
+            "reference": "Jer 12:1-11 (th adalen 2)",
+            "title": "3. Panagbasa iti Biblia",
+            "class": "part-title-gems",
+            "roles": [
+              "br"
+            ]
+          }
+        ],
+        "ministry": [
+          {
+            "id": "202606.5.4",
+            "time": 3,
+            "title": "4. Panangirugi iti Saritaan",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 1 punto 4",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.5.5",
+            "time": 4,
+            "title": "5. Pannakisarita Manen",
+            "class": "part-title-ministry",
+            "reference": "lmd leksion 3 punto 3",
+            "roles": [
+              "demo"
+            ]
+          },
+          {
+            "id": "202606.5.6",
+            "time": 5,
+            "title": "6. Palawag",
+            "class": "part-title-ministry",
+            "reference": "th adalen 14",
+            "roles": [
+              "talk"
+            ]
+          }
+        ],
+        "living": [
+          {
+            "id": "202606.5.7",
+            "time": 15,
+            "title": "7. Lokal a Kasapulan",
+            "class": "part-title-living",
+            "roles": [
+              "elder"
+            ],
+            "writtable": true
+          },
+          {
+            "id": "202606.5.8",
+            "time": 30,
+            "title": "8. Panagadal ti Kongregasion iti Biblia",
+            "class": "part-title-living",
+            "reference": "lfb leksion 98-99",
+            "roles": [
+              "cbs"
+            ]
+          },
+          {
+            "id": "202606.5.8.r",
+            "class": "accessory",
+            "alt": "Reader:",
+            "roles": [
+              "rdr"
+            ]
+          },
+          {
+            "id": "202606.5.9",
+            "time": 3,
+            "reference": "Pangserra a Sasao",
+            "roles": [
+              "elder",
+              "ms"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

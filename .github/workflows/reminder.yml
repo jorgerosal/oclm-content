@@ -1,0 +1,48 @@
+name: Workbook reminder
+
+# On the 1st and 15th of each month, open (or update) an issue listing languages that
+# do not have workbook content for the current and next two months yet. Closes the
+# issue again when nothing is missing. This only reads this repository.
+on:
+  schedule:
+    - cron: "0 1 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Find missing months
+        id: check
+        run: |
+          set +e
+          node scripts/check-upcoming.mjs 2 --markdown > missing.md
+          code=$?
+          set -e
+          cat missing.md
+          if [ "$code" = "2" ]; then echo "missing=true" >> "$GITHUB_OUTPUT"; else echo "missing=false" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Open or update the reminder issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Workbook months needed"
+          number=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+          if [ "${{ steps.check.outputs.missing }}" = "true" ]; then
+            if [ -n "$number" ]; then
+              gh issue edit "$number" --body-file missing.md
+            else
+              gh issue create --title "$title" --body-file missing.md
+            fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "All languages now have content for the coming months."
+          fi

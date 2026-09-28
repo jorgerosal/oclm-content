@@ -1,0 +1,13 @@
+{
+  "name": "oclm-content",
+  "private": true,
+  "description": "Workbook month content for OCLM Scheduler, served to the app through jsDelivr.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/validate.mjs --quiet && node scripts/build.mjs --check",
+    "upcoming": "node scripts/check-upcoming.mjs 2"
+  }
+}

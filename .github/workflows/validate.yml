@@ -1,0 +1,22 @@
+name: Validate
+
+# Runs on every pull request and on pushes to branches other than main
+# (main is validated by the Publish workflow).
+on:
+  pull_request:
+  push:
+    branches-ignore: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check month files
+        run: node scripts/validate.mjs

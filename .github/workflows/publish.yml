@@ -1,0 +1,60 @@
+name: Publish
+
+# When month files change on main: validate, rebuild manifest.json and bundle.json,
+# commit them, and clear the jsDelivr cache so installed apps see the new content now.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "source/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # needed so the content version comes from the last source/ commit
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check month files
+        run: node scripts/validate.mjs
+
+      - name: Build manifest.json and bundle.json
+        run: node scripts/build.mjs
+
+      - name: Commit build output
+        id: commit
+        run: |
+          if git diff --quiet -- manifest.json bundle.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Build output is already up to date."
+            exit 0
+          fi
+          version=$(node -p "require('./manifest.json').version")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json bundle.json
+          git commit -m "Publish content $version"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Clear jsDelivr cache
+        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          for file in manifest.json bundle.json; do
+            curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/${file}" || echo "Purge request for ${file} failed (the cache will refresh within 12 hours)."
+            echo
+          done
