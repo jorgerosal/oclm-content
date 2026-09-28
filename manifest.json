@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-28T09:39:03.000Z",
+  "bundle": "bundle.json",
+  "languages": [
+    {
+      "code": "BCL",
+      "name": "Bicol"
+    },
+    {
+      "code": "CEB",
+      "name": "Cebuano"
+    },
+    {
+      "code": "EN",
+      "name": "English"
+    },
+    {
+      "code": "HIL",
+      "name": "Hiligaynon"
+    },
+    {
+      "code": "ILO",
+      "name": "Iloko"
+    },
+    {
+      "code": "PAG",
+      "name": "Pangasinan"
+    },
+    {
+      "code": "SL",
+      "name": "Sign Language"
+    },
+    {
+      "code": "TL",
+      "name": "Tagalog"
+    },
+    {
+      "code": "WAR",
+      "name": "Waray-waray"
+    }
+  ],
+  "months": [
+    {
+      "lang": "BCL",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202606",
+      "display": "Hunio 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202607",
+      "display": "Hulio 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202609",
+      "display": "Septiembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "BCL",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202606",
+      "display": "Hunyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202607",
+      "display": "Hulyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202609",
+      "display": "Septiyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202611",
+      "display": "Nobiyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "CEB",
+      "period": "202612",
+      "display": "Disyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202601",
+      "display": "January 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202602",
+      "display": "February 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202603",
+      "display": "March 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202604",
+      "display": "April 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202605",
+      "display": "May 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202606",
+      "display": "June 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202607",
+      "display": "July 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202608",
+      "display": "August 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202609",
+      "display": "September 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202610",
+      "display": "October 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202611",
+      "display": "November 2026",
+      "publish": true
+    },
+    {
+      "lang": "EN",
+      "period": "202612",
+      "display": "December 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202606",
+      "display": "Hunyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202607",
+      "display": "Hulyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202609",
+      "display": "Septiembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202611",
+      "display": "Nobiembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "HIL",
+      "period": "202612",
+      "display": "Disiembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202606",
+      "display": "Hunio 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202607",
+      "display": "Hulio 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202609",
+      "display": "Septiembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "ILO",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202606",
+      "display": "Hunyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202607",
+      "display": "Hulyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202609",
+      "display": "Setyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "PAG",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202601",
+      "display": "January 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202602",
+      "display": "February 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202603",
+      "display": "March 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202604",
+      "display": "April 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202605",
+      "display": "May 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202606",
+      "display": "June 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202609",
+      "display": "September 2026",
+      "publish": true
+    },
+    {
+      "lang": "SL",
+      "period": "202610",
+      "display": "October 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202606",
+      "display": "Hunyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202607",
+      "display": "Hulyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202609",
+      "display": "Setyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202611",
+      "display": "Nobyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "TL",
+      "period": "202612",
+      "display": "Disyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202601",
+      "display": "Enero 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202602",
+      "display": "Pebrero 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202603",
+      "display": "Marso 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202604",
+      "display": "Abril 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202605",
+      "display": "Mayo 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202606",
+      "display": "Hunyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202607",
+      "display": "Hulyo 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202608",
+      "display": "Agosto 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202609",
+      "display": "Septyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202610",
+      "display": "Oktubre 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202611",
+      "display": "Nobyembre 2026",
+      "publish": true
+    },
+    {
+      "lang": "WAR",
+      "period": "202612",
+      "display": "Disyembre 2026",
+      "publish": true
+    }
+  ]
+}
